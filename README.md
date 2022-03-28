@@ -2,7 +2,8 @@
 - 👀 I’m interested in HTML, CSS, JavaScript
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on some easy projects where I can improve and learn new skills
-- 📫 How to reach me n-marcjan@wp.pl
+- 📫 Instagram: nataliamarcjan
+- 👅 Speaking Polish, English, and Spanish
 
 <!---
 nataliamarcjan/nataliamarcjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
